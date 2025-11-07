@@ -13,4 +13,4 @@ Suivez les étapes :
 - Veillez à ce que le code de la page soit valide et bien structuré.
 - Faites au moins 6 commits sur l'ensemble du TP en les nommant de manière pertinente.
 
-S'il vous reste du temps, commencez les autres pages.
+S'il vous reste du temps, commencez les autres pages
